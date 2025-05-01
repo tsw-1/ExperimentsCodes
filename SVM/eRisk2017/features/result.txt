@@ -1,0 +1,10 @@
+nohup: ignoring input
+..........................loading
+extracting ngrams... where n is [1,2]
+done in 30.398224s (486, 503682) (401, 503682)
+Extracting best features by a chi-squared test..  (486, 2500) (401, 2500)
+........................end
+Traceback (most recent call last):
+  File "/home/E22301339/depressionDetection/features/Feature_selection.py", line 114, in <module>
+    X_train, y_train, X_test = ngrams(train, test, labels, ntrain, 1, 2, 2500, donorm = True, verbose = verbose) #min_ngram, max_ngram, size of final vector
+ValueError: too many values to unpack (expected 3)

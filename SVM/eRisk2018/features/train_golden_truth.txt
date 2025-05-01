@@ -1,0 +1,887 @@
+train_subject669 1
+train_subject1839 1
+train_subject416 1
+train_subject9552 1
+train_subject7680 1
+train_subject1605 1
+train_subject7364 1
+train_subject1095 1
+train_subject5080 1
+train_subject7181 1
+train_subject8843 1
+train_subject4879 1
+train_subject4630 1
+train_subject7042 1
+train_subject1201 1
+train_subject374 1
+train_subject96 1
+train_subject2037 1
+train_subject7925 1
+train_subject896 1
+train_subject6494 1
+train_subject2712 1
+train_subject7135 1
+train_subject4675 1
+train_subject9115 1
+train_subject6146 1
+train_subject5649 1
+train_subject5537 1
+train_subject7515 1
+train_subject7970 1
+train_subject8683 1
+train_subject1555 1
+train_subject337 1
+train_subject7326 1
+train_subject2440 1
+train_subject2252 1
+train_subject1542 1
+train_subject5723 1
+train_subject3670 1
+train_subject888 1
+train_subject9683 1
+train_subject9951 1
+train_subject9358 1
+train_subject127 1
+train_subject1190 1
+train_subject7367 1
+train_subject405 1
+train_subject1457 1
+train_subject8771 1
+train_subject6101 1
+train_subject1361 1
+train_subject1191 1
+train_subject1879 1
+train_subject8741 1
+train_subject5936 1
+train_subject7157 1
+train_subject3336 1
+train_subject2704 1
+train_subject3902 1
+train_subject7142 1
+train_subject9001 1
+train_subject1637 1
+train_subject9763 1
+train_subject8577 1
+train_subject2219 1
+train_subject136 1
+train_subject7930 1
+train_subject4359 1
+train_subject3364 1
+train_subject7533 1
+train_subject7133 1
+train_subject6760 1
+train_subject2871 1
+train_subject1199 1
+train_subject8901 1
+train_subject2415 1
+train_subject933 1
+train_subject3125 1
+train_subject4493 1
+train_subject6150 1
+train_subject1979 1
+train_subject7703 1
+train_subject2382 1
+train_subject9419 0
+train_subject246 0
+train_subject898 0
+train_subject5276 0
+train_subject3674 0
+train_subject138 0
+train_subject7371 0
+train_subject7667 0
+train_subject9394 0
+train_subject3014 0
+train_subject7821 0
+train_subject5405 0
+train_subject652 0
+train_subject8693 0
+train_subject9974 0
+train_subject2888 0
+train_subject9737 0
+train_subject9446 0
+train_subject9554 0
+train_subject1519 0
+train_subject7670 0
+train_subject9572 0
+train_subject3422 0
+train_subject2605 0
+train_subject8169 0
+train_subject8834 0
+train_subject8659 0
+train_subject6381 0
+train_subject4034 0
+train_subject3192 0
+train_subject5967 0
+train_subject5457 0
+train_subject9201 0
+train_subject9455 0
+train_subject489 0
+train_subject1317 0
+train_subject5439 0
+train_subject9451 0
+train_subject2984 0
+train_subject5126 0
+train_subject1280 0
+train_subject6796 0
+train_subject7938 0
+train_subject9456 0
+train_subject1249 0
+train_subject6735 0
+train_subject2003 0
+train_subject6546 0
+train_subject1354 0
+train_subject3615 0
+train_subject4918 0
+train_subject4463 0
+train_subject3598 0
+train_subject9063 0
+train_subject6818 0
+train_subject1485 0
+train_subject122 0
+train_subject8715 0
+train_subject4678 0
+train_subject9812 0
+train_subject1598 0
+train_subject2894 0
+train_subject7994 0
+train_subject4484 0
+train_subject7294 0
+train_subject3330 0
+train_subject9821 0
+train_subject2892 0
+train_subject3843 0
+train_subject9265 0
+train_subject6921 0
+train_subject8603 0
+train_subject1324 0
+train_subject5469 0
+train_subject1632 0
+train_subject7034 0
+train_subject679 0
+train_subject8022 0
+train_subject9000 0
+train_subject5088 0
+train_subject2590 0
+train_subject4298 0
+train_subject2091 0
+train_subject8318 0
+train_subject6287 0
+train_subject5425 0
+train_subject1885 0
+train_subject9884 0
+train_subject7370 0
+train_subject6185 0
+train_subject3438 0
+train_subject9901 0
+train_subject4565 0
+train_subject2371 0
+train_subject9154 0
+train_subject5081 0
+train_subject1184 0
+train_subject3236 0
+train_subject2259 0
+train_subject4181 0
+train_subject1458 0
+train_subject7806 0
+train_subject4999 0
+train_subject7734 0
+train_subject1909 0
+train_subject9584 0
+train_subject7777 0
+train_subject9036 0
+train_subject1529 0
+train_subject7720 0
+train_subject5170 0
+train_subject6802 0
+train_subject64 0
+train_subject4305 0
+train_subject2466 0
+train_subject1541 0
+train_subject2959 0
+train_subject3286 0
+train_subject3450 0
+train_subject6163 0
+train_subject8803 0
+train_subject9911 0
+train_subject5173 0
+train_subject7838 0
+train_subject569 0
+train_subject5008 0
+train_subject5465 0
+train_subject8961 0
+train_subject598 0
+train_subject1905 0
+train_subject1846 0
+train_subject4550 0
+train_subject7502 0
+train_subject5653 0
+train_subject7123 0
+train_subject1032 0
+train_subject9175 0
+train_subject6188 0
+train_subject529 0
+train_subject2450 0
+train_subject2077 0
+train_subject2141 0
+train_subject800 0
+train_subject1811 0
+train_subject7239 0
+train_subject4904 0
+train_subject615 0
+train_subject3687 0
+train_subject9671 0
+train_subject4988 0
+train_subject2071 0
+train_subject8210 0
+train_subject1805 0
+train_subject4130 0
+train_subject5671 0
+train_subject7620 0
+train_subject4831 0
+train_subject4769 0
+train_subject6972 0
+train_subject7093 0
+train_subject7211 0
+train_subject5681 0
+train_subject7049 0
+train_subject1642 0
+train_subject4778 0
+train_subject3806 0
+train_subject1208 0
+train_subject8471 0
+train_subject2418 0
+train_subject893 0
+train_subject9260 0
+train_subject4353 0
+train_subject2992 0
+train_subject3210 0
+train_subject4803 0
+train_subject4092 0
+train_subject4410 0
+train_subject7067 0
+train_subject8959 0
+train_subject1464 0
+train_subject541 0
+train_subject7865 0
+train_subject5580 0
+train_subject4903 0
+train_subject4094 0
+train_subject8008 0
+train_subject5063 0
+train_subject1939 0
+train_subject6309 0
+train_subject9354 0
+train_subject599 0
+train_subject71 0
+train_subject8735 0
+train_subject2384 0
+train_subject3651 0
+train_subject9731 0
+train_subject9503 0
+train_subject9038 0
+train_subject5680 0
+train_subject9215 0
+train_subject1185 0
+train_subject9909 0
+train_subject8245 0
+train_subject2818 0
+train_subject475 0
+train_subject7619 0
+train_subject5916 0
+train_subject7767 0
+train_subject1917 0
+train_subject8996 0
+train_subject535 0
+train_subject8559 0
+train_subject9266 0
+train_subject2843 0
+train_subject3554 0
+train_subject1405 0
+train_subject3793 0
+train_subject7287 0
+train_subject8232 0
+train_subject1015 0
+train_subject3431 0
+train_subject2472 0
+train_subject8443 0
+train_subject6275 0
+train_subject7221 0
+train_subject9290 0
+train_subject3760 0
+train_subject3333 0
+train_subject2449 0
+train_subject176 0
+train_subject8652 0
+train_subject4100 0
+train_subject765 0
+train_subject4514 0
+train_subject6084 0
+train_subject3657 0
+train_subject9536 0
+train_subject4364 0
+train_subject9546 0
+train_subject5349 0
+train_subject1490 0
+train_subject8455 0
+train_subject8395 0
+train_subject904 0
+train_subject7654 0
+train_subject6418 0
+train_subject4000 0
+train_subject7377 0
+train_subject7402 0
+train_subject95 0
+train_subject3418 0
+train_subject4572 0
+train_subject8267 0
+train_subject7488 0
+train_subject9153 0
+train_subject6114 0
+train_subject3590 0
+train_subject522 0
+train_subject7610 0
+train_subject1576 0
+train_subject1727 0
+train_subject4454 0
+train_subject9242 0
+train_subject3804 0
+train_subject4848 0
+train_subject9972 0
+train_subject1094 0
+train_subject2585 0
+train_subject5879 0
+train_subject4021 0
+train_subject8250 0
+train_subject497 0
+train_subject780 0
+train_subject4643 0
+train_subject9590 0
+train_subject1752 0
+train_subject7840 0
+train_subject1906 0
+train_subject6875 0
+train_subject7311 0
+train_subject3109 0
+train_subject3533 0
+train_subject6783 0
+train_subject5030 0
+train_subject8279 0
+train_subject687 0
+train_subject8998 0
+train_subject5306 0
+train_subject7036 0
+train_subject6486 0
+train_subject9062 0
+train_subject5136 0
+train_subject867 0
+train_subject5366 0
+train_subject5569 0
+train_subject9940 0
+train_subject6584 0
+train_subject4281 0
+train_subject7356 0
+train_subject6670 0
+train_subject4743 0
+train_subject5015 0
+train_subject8202 0
+train_subject3936 0
+train_subject1473 0
+train_subject4065 0
+train_subject6422 0
+train_subject6794 0
+train_subject8697 0
+train_subject7819 0
+train_subject8579 0
+train_subject8978 0
+train_subject3267 0
+train_subject750 0
+train_subject98 0
+train_subject4807 0
+train_subject5522 0
+train_subject4116 0
+train_subject9553 0
+train_subject4448 0
+train_subject7329 0
+train_subject6303 0
+train_subject6359 0
+train_subject4218 0
+train_subject4367 0
+train_subject3168 0
+train_subject4471 0
+train_subject3981 0
+train_subject5763 0
+train_subject4969 0
+train_subject2597 0
+train_subject2521 0
+train_subject318 0
+train_subject1446 0
+train_subject9117 0
+train_subject770 0
+train_subject2460 0
+train_subject634 0
+train_subject9876 0
+train_subject7140 0
+train_subject2006 0
+train_subject4020 0
+train_subject7762 0
+train_subject3761 0
+train_subject4241 0
+train_subject9463 0
+train_subject5510 0
+train_subject9958 0
+train_subject5287 0
+train_subject7011 0
+train_subject5448 0
+train_subject8569 0
+train_subject8607 0
+train_subject5760 0
+train_subject2339 0
+train_subject7971 0
+train_subject4510 0
+train_subject517 0
+train_subject7125 0
+train_subject9915 0
+train_subject4233 0
+train_subject3773 0
+train_subject5656 0
+train_subject3389 0
+train_subject4544 0
+train_subject3136 0
+train_subject1033 0
+train_subject7462 0
+train_subject8542 0
+train_subject4487 0
+train_subject7679 0
+train_subject1687 0
+train_subject6825 0
+train_subject5937 0
+train_subject3812 0
+train_subject4435 0
+train_subject8344 0
+train_subject4458 0
+train_subject9061 0
+train_subject5807 0
+train_subject4395 0
+train_subject1318 0
+train_subject6515 0
+train_subject2082 0
+train_subject5236 0
+train_subject6847 0
+train_subject5449 0
+train_subject8979 0
+train_subject1691 0
+train_subject7851 0
+train_subject8459 0
+train_subject3392 0
+train_subject889 0
+train_subject5096 0
+train_subject5676 0
+train_subject9956 0
+train_subject4010 0
+train_subject9585 0
+train_subject6216 0
+train_subject6353 0
+train_subject3540 0
+train_subject3482 0
+train_subject6828 0
+test_subject9942	1
+ test_subject3986	1
+ test_subject6794	1
+ test_subject8969	1
+ test_subject3988	1
+ test_subject3805	1
+ test_subject5209	1
+ test_subject7467	1
+ test_subject4471	1
+ test_subject8039	1
+ test_subject5099	1
+ test_subject6246	1
+ test_subject9840	1
+ test_subject625	1
+ test_subject9246	1
+ test_subject6728	1
+ test_subject8878	1
+ test_subject7776	1
+ test_subject5926	1
+ test_subject1914	1
+ test_subject1487	1
+ test_subject8662	1
+ test_subject5880	1
+ test_subject9565	1
+ test_subject9298	1
+ test_subject8159	1
+ test_subject3802	1
+ test_subject1488	1
+ test_subject4534	1
+ test_subject1445	1
+ test_subject8720	1
+ test_subject3408	1
+ test_subject8590	1
+ test_subject9306	1
+ test_subject9359	1
+ test_subject2607	1
+ test_subject6305	1
+ test_subject7464	1
+ test_subject2585	1
+ test_subject2790	1
+ test_subject6948	1
+ test_subject8773	1
+ test_subject1345	1
+ test_subject9579	1
+ test_subject9096	1
+ test_subject6752	1
+ test_subject9585	1
+ test_subject2960	1
+ test_subject3112	1
+ test_subject5913	1
+ test_subject2673	1
+ test_subject7921	1
+ test_subject2985	0
+ test_subject1539	0
+ test_subject8293	0
+ test_subject5603	0
+ test_subject4721	0
+ test_subject8574	0
+ test_subject6026	0
+ test_subject315	0
+ test_subject8523	0
+ test_subject9085	0
+ test_subject4850	0
+ test_subject4892	0
+ test_subject2064	0
+ test_subject9196	0
+ test_subject8078	0
+ test_subject4982	0
+ test_subject8168	0
+ test_subject6028	0
+ test_subject8945	0
+ test_subject7878	0
+ test_subject861	0
+ test_subject952	0
+ test_subject1693	0
+ test_subject3341	0
+ test_subject3120	0
+ test_subject3008	0
+ test_subject387	0
+ test_subject6894	0
+ test_subject4968	0
+ test_subject7115	0
+ test_subject1613	0
+ test_subject6878	0
+ test_subject2521	0
+ test_subject5550	0
+ test_subject5983	0
+ test_subject4188	0
+ test_subject8103	0
+ test_subject9766	0
+ test_subject2196	0
+ test_subject8020	0
+ test_subject353	0
+ test_subject9587	0
+ test_subject3892	0
+ test_subject8777	0
+ test_subject1586	0
+ test_subject8582	0
+ test_subject9866	0
+ test_subject326	0
+ test_subject4746	0
+ test_subject768	0
+ test_subject501	0
+ test_subject2749	0
+ test_subject570	0
+ test_subject9304	0
+ test_subject6884	0
+ test_subject1724	0
+ test_subject1506	0
+ test_subject8967	0
+ test_subject166	0
+ test_subject1085	0
+ test_subject9549	0
+ test_subject5366	0
+ test_subject8880	0
+ test_subject2751	0
+ test_subject6070	0
+ test_subject7938	0
+ test_subject7585	0
+ test_subject2036	0
+ test_subject1840	0
+ test_subject2452	0
+ test_subject974	0
+ test_subject3214	0
+ test_subject2560	0
+ test_subject1590	0
+ test_subject9112	0
+ test_subject4729	0
+ test_subject9029	0
+ test_subject5054	0
+ test_subject9355	0
+ test_subject5288	0
+ test_subject5005	0
+ test_subject4408	0
+ test_subject6732	0
+ test_subject4851	0
+ test_subject5956	0
+ test_subject1483	0
+ test_subject9111	0
+ test_subject1452	0
+ test_subject9527	0
+ test_subject6974	0
+ test_subject8195	0
+ test_subject7299	0
+ test_subject6514	0
+ test_subject5566	0
+ test_subject4909	0
+ test_subject6945	0
+ test_subject9710	0
+ test_subject5355	0
+ test_subject513	0
+ test_subject351	0
+ test_subject6048	0
+ test_subject594	0
+ test_subject2804	0
+ test_subject4116	0
+ test_subject6771	0
+ test_subject2001	0
+ test_subject4034	0
+ test_subject8528	0
+ test_subject8349	0
+ test_subject1116	0
+ test_subject7471	0
+ test_subject5689	0
+ test_subject143	0
+ test_subject2317	0
+ test_subject6308	0
+ test_subject8585	0
+ test_subject9098	0
+ test_subject7429	0
+ test_subject6875	0
+ test_subject6049	0
+ test_subject2285	0
+ test_subject1111	0
+ test_subject5736	0
+ test_subject9450	0
+ test_subject7146	0
+ test_subject4650	0
+ test_subject9985	0
+ test_subject25	0
+ test_subject9791	0
+ test_subject6498	0
+ test_subject8320	0
+ test_subject8977	0
+ test_subject259	0
+ test_subject3482	0
+ test_subject265	0
+ test_subject4499	0
+ test_subject1139	0
+ test_subject4818	0
+ test_subject6596	0
+ test_subject8980	0
+ test_subject2539	0
+ test_subject1062	0
+ test_subject881	0
+ test_subject2844	0
+ test_subject6582	0
+ test_subject7578	0
+ test_subject4796	0
+ test_subject3651	0
+ test_subject8889	0
+ test_subject7451	0
+ test_subject211	0
+ test_subject8409	0
+ test_subject497	0
+ test_subject680	0
+ test_subject7829	0
+ test_subject6772	0
+ test_subject4937	0
+ test_subject5061	0
+ test_subject3744	0
+ test_subject2284	0
+ test_subject1572	0
+ test_subject9062	0
+ test_subject8493	0
+ test_subject9371	0
+ test_subject3928	0
+ test_subject6491	0
+ test_subject436	0
+ test_subject4407	0
+ test_subject4261	0
+ test_subject4766	0
+ test_subject6469	0
+ test_subject4276	0
+ test_subject3172	0
+ test_subject7756	0
+ test_subject2454	0
+ test_subject2093	0
+ test_subject7775	0
+ test_subject9635	0
+ test_subject2154	0
+ test_subject4494	0
+ test_subject2180	0
+ test_subject145	0
+ test_subject9582	0
+ test_subject7558	0
+ test_subject8820	0
+ test_subject9737	0
+ test_subject752	0
+ test_subject3406	0
+ test_subject1376	0
+ test_subject4891	0
+ test_subject9300	0
+ test_subject7503	0
+ test_subject3927	0
+ test_subject8391	0
+ test_subject6067	0
+ test_subject1005	0
+ test_subject2270	0
+ test_subject3273	0
+ test_subject2359	0
+ test_subject1620	0
+ test_subject1359	0
+ test_subject1830	0
+ test_subject7934	0
+ test_subject7075	0
+ test_subject4291	0
+ test_subject2397	0
+ test_subject2101	0
+ test_subject9320	0
+ test_subject1919	0
+ test_subject5034	0
+ test_subject5859	0
+ test_subject3336	0
+ test_subject4679	0
+ test_subject50	0
+ test_subject3635	0
+ test_subject1381	0
+ test_subject4930	0
+ test_subject306	0
+ test_subject1896	0
+ test_subject7026	0
+ test_subject8498	0
+ test_subject4565	0
+ test_subject5525	0
+ test_subject9446	0
+ test_subject4293	0
+ test_subject5688	0
+ test_subject8399	0
+ test_subject6092	0
+ test_subject1798	0
+ test_subject7073	0
+ test_subject2034	0
+ test_subject2336	0
+ test_subject74	0
+ test_subject1878	0
+ test_subject6569	0
+ test_subject499	0
+ test_subject8362	0
+ test_subject8944	0
+ test_subject3185	0
+ test_subject6809	0
+ test_subject8481	0
+ test_subject2186	0
+ test_subject4435	0
+ test_subject4227	0
+ test_subject1448	0
+ test_subject9069	0
+ test_subject3702	0
+ test_subject2886	0
+ test_subject937	0
+ test_subject1103	0
+ test_subject9879	0
+ test_subject6620	0
+ test_subject3791	0
+ test_subject7730	0
+ test_subject1304	0
+ test_subject8276	0
+ test_subject2389	0
+ test_subject2990	0
+ test_subject2483	0
+ test_subject5601	0
+ test_subject6436	0
+ test_subject2674	0
+ test_subject5266	0
+ test_subject4053	0
+ test_subject3655	0
+ test_subject3921	0
+ test_subject6208	0
+ test_subject4139	0
+ test_subject8049	0
+ test_subject3175	0
+ test_subject2425	0
+ test_subject3919	0
+ test_subject6558	0
+ test_subject3023	0
+ test_subject5732	0
+ test_subject5489	0
+ test_subject954	0
+ test_subject2277	0
+ test_subject4255	0
+ test_subject6899	0
+ test_subject3107	0
+ test_subject1372	0
+ test_subject9736	0
+ test_subject3026	0
+ test_subject6267	0
+ test_subject2476	0
+ test_subject771	0
+ test_subject9802	0
+ test_subject9451	0
+ test_subject7609	0
+ test_subject201	0
+ test_subject2465	0
+ test_subject7521	0
+ test_subject748	0
+ test_subject3081	0
+ test_subject2667	0
+ test_subject773	0
+ test_subject3592	0
+ test_subject857	0
+ test_subject8981	0
+ test_subject1246	0
+ test_subject8434	0
+ test_subject9670	0
+ test_subject7987	0
+ test_subject2689	0
+ test_subject4978	0
+ test_subject1222	0
+ test_subject7070	0
+ test_subject3827	0
+ test_subject5563	0
+ test_subject96	0
+ test_subject6459	0
+ test_subject8901	0
+ test_subject4671	0
+ test_subject3547	0
+ test_subject2286	0
+ test_subject3366	0
+ test_subject7254	0
+ test_subject5413	0
+ test_subject7685	0
+ test_subject7101	0
+ test_subject3665	0
+ test_subject8881	0
+ test_subject9533	0
+ test_subject834	0
+ test_subject5989	0
+ test_subject8648	0
+ test_subject8830	0
+ test_subject7733	0
+ test_subject1730	0
+ test_subject2183	0
+ test_subject8142	0
+ test_subject2027	0
+ test_subject6167	0
+ test_subject7513	0
+ test_subject5967	0
+ test_subject655	0
+ test_subject8710	0
+ test_subject7864	0
+ test_subject3493	0
+ test_subject135	0
+ test_subject2459	0
+ test_subject2973	0
+ test_subject395	0
+ test_subject759	0
+ test_subject6364	0
+ test_subject1849	0
+ test_subject348	0
+ test_subject3834	0
